@@ -1,4 +1,4 @@
-# CPSC-349-03
+# CPSC-349
 Front End Web Development - JS
 
 All rights reserved.
